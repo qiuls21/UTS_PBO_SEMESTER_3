@@ -1,6 +1,6 @@
 # Sistem Inventaris Barang Dari Laravel
 
-Aplikasi CRUD data barang menggunakan Laravel dengan pola Route, Controller, Blade.
+CRUD data barang menggunakan Laravel dengan pola Route, Controller, Blade.
 Data disimpan di session tanpa database.
 
 ## Identitas
