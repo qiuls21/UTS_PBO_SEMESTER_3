@@ -1,7 +1,7 @@
 # UTS PBO - Sistem Inventaris Barang (Laravel)
 
 Aplikasi CRUD data barang menggunakan Laravel dengan pola Route, Controller, Blade.
-Data disimpan di session (tanpa database).
+Data disimpan di session tanpa database.
 
 ## Identitas
 - Nama : Rizki Maulana
@@ -9,10 +9,10 @@ Data disimpan di session (tanpa database).
 - Mata Kuliah : Pemrograman Berorientasi Objek
 
 ## Persyaratan
-- PHP (sesuai versi praktikum)
+- PHP 
 - Composer
 
-## Cara Menjalankan
+## Menjalankan
 1. Clone repository
    git clone https://github.com/qiuls21/UTS_PBO_SEMESTER_3.git
    cd uts-pbo-laravel
