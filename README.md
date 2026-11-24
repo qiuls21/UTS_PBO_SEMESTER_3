@@ -1,4 +1,4 @@
-# UTS PBO - Sistem Inventaris Barang (Laravel)
+# Sistem Inventaris Barang Dari Laravel
 
 Aplikasi CRUD data barang menggunakan Laravel dengan pola Route, Controller, Blade.
 Data disimpan di session tanpa database.
@@ -20,7 +20,7 @@ Data disimpan di session tanpa database.
    composer install
 3. Salin file environment
    cp .env.example .env
-   (di Windows PowerShell: copy .env.example .env)
+   di Windows PowerShell: copy .env.example .env
 4. Generate app key
    php artisan key:generate
 5. Pastikan SESSION_DRIVER=file di file .env
